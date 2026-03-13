@@ -1,0 +1,4 @@
+mudar cor da palavra: style="color:blueviolet"
+
+color:blue
+font:size

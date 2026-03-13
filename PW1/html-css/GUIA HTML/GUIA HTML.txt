@@ -1,0 +1,26 @@
+GUIA ESTUDOS HTML
+
+<!DOCTYPE> = DIZ QUE SEU PROJETO É HTML
+
+<html lang="pt-br"> = INICIO DO SITE
+lang="pt-br"> = INFORMA QUE O IDIOMA É PORTUGUES BRASIL
+
+<head>
+
+
+ATALHOS
+
+!= Abre a estrutura inteira 
+
+<br> = pula uma linha 
+&# x1f596 ; = colocar emoji
+<hr> = cria uma linhona
+
+IMAGEM
+
+<img src=: Define a origem (link ou caminho) do arquivo de imagem.
+alt=: Texto alternativo que aparece se a imagem falhar ou para leitores de tela.
+width=: Define a largura da imagem em pixels.
+height=: Define a altura da imagem em pixels.
+loading=: Controla quando carregar a imagem (ex: lazy para carregar só ao rolar a página).
+ 
